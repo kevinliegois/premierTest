@@ -1,2 +1,5 @@
 config.php
 *.html
+
+le nombre de ^ représent le nombre de commit en arriere
+git reset HEAD^^
